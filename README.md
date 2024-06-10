@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">  
-<a href="https://www.instagram.com/invites/contact/?i=ggnninc0js1q&utm_content=oui6srz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/izabel_silvax3?igsh=MTQ2eGViMXMxY3k4OQ==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
   
 <div align="center">
